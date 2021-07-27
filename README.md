@@ -7,7 +7,9 @@ Some project pages to refer to:
 - https://hbutsuak95.github.io/AutoLay/
 - https://montrealrobotics.ca/probod/
 
-We need to set up GitHub pages and this will automatically get hosted on Abhinav's github.io website! 
+We need to set up GitHub pages and this will automatically get hosted on Abhinav's github.io website. 
+
+**Code and dataset will be released soon!**
 
 ### Abstract
 
@@ -25,7 +27,7 @@ year={2021}
 }
 
 ```
-### Acknowledgement
+### License and Acknowledgement
 
-We thank Tata Innovation Labs, Kolkata for funding our project. 
+We thank Tata Innovation Labs, Kolkata for funding our project. This work is licensed under the patent XYZ filed by Tata Innovation Labs and can be used only as per the terms and conditions. 
 
