@@ -7,7 +7,7 @@ Some project pages to refer to:
 - https://hbutsuak95.github.io/AutoLay/
 - https://montrealrobotics.ca/probod/
 
-We need to set up GitHub pages and this will automatically get hosted on Abhinav's github.io website. 
+We need to set up GitHub pages and this will automatically get hosted on Abhinav's github.io website. We can also use Google Sites to set up our Project Page. Whatever Nomaan likes! 
 
 **Code and dataset will be released soon!**
 
