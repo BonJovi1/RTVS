@@ -6,8 +6,10 @@ Mohammad Nomaan Qureshi<sup>\*</sup><sup>1</sup>, Pushkal Katara<sup>\*</sup><su
 <sup>1</sup> Robotics Research Center, IIIT Hyderabad, India <br> 
 <sup>2</sup> Toshiba Research, Cambridge, UK <br> 
 <sup>3</sup> TCS Research and Innovation, Kolkata, India <br>
-<sup>*</sup> indicates equal procastination <br>
+<sup>*</sup> indicates equal contribution <br>
 </div>
+
+Coda and Dataset will be released soon!
 
 ### Abstract
 
