@@ -32,11 +32,11 @@ RTVS shows a significant improvement in servoing frequency vis-à-vis other deep
 We demonstrate our MPC based optimisation framework to perform visual servoing in 6DoF. In each MPC optimisation step, we use FlowNetC to predict the optical flow between the current image It and goal image I∗, which acts as the target flow for control generation. The flow computed between the current and previous image acts as a proxy for depth, which after normalisation, is fed into the interaction matrix. Our control generator then optimises the flow loss to generate control commands. 
 
 <p align="center">
-<img src="main_final.png" alt="drawing" width="600"/> </center>
+<img src="main_final.png" alt="drawing" width="600"/>
 </p>
 
 This figure depicts our control generation architecture. We sample a (β x 6) vector from a multivariate Gaussian distribution and pass it through our Directional Neural Network. The kinetic model generates β pseudo-flows and the flow loss is computed for each, against the target flow. In each MPC step, we pick the top K velocities corresponding to the K least flow errors to update the Gaussian parameters, while the mean velocity is fed to the actuator.
 <p align="center">
-<img src="generatorv5.png" alt="drawing" width="500"/> </center>
+<img src="generatorv5.png" alt="drawing" width="500"/>
 </p>
 
