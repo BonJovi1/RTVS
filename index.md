@@ -12,7 +12,7 @@ Mohammad Nomaan Qureshi<sup>\*</sup><sup>1</sup>, Pushkal Katara<sup>\*</sup><su
 Coda and Dataset will be released soon!
 
 <p align="center">
-<img src="video.gif" /> </center>
+<img src="video.gif" /> 
 </p>
 
 ### Abstract
@@ -21,7 +21,7 @@ Recent data-driven approaches to visual servoing have shown improved performance
 
 
 <p align="center">
-<img src="Teaser.png" alt="drawing" width="600"/> </center>
+<img src="Teaser.png" alt="drawing" width="600"/> 
 </p>
 
 <p align="center">
