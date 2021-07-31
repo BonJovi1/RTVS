@@ -1,7 +1,8 @@
 # RTVS
 [IROS '21] RTVS: A Lightweight Differentiable MPC Framework For Real-Time Visual Servoing
 
-**Code and dataset will be released soon!**
+**Code and dataset will be released soon!** \
+Check out our [Project Page](https://bonjovi1.github.io/RTVS/)!
 
 ### Abstract
 
