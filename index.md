@@ -9,9 +9,11 @@ Mohammad Nomaan Qureshi<sup>\*</sup><sup>1</sup>, Pushkal Katara<sup>\*</sup><su
 <sup>*</sup> indicates equal contribution <br>
 </div>
 
-Coda and Dataset will be released soon!
+Code and Dataset will be released soon!
 
-[Link button](https://bonjovi1.github.io/assets/pdf/RTVS.pdf){: .btn .btn-purple }
+<button onclick="window.location=https://bonjovi1.github.io/assets/pdf/RTVS.pdf">Download Paper</button>
+
+[Download Paper](https://bonjovi1.github.io/assets/pdf/RTVS.pdf)
 
 <p align="center">
 <img src="video.gif" /> 
