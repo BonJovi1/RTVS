@@ -11,9 +11,7 @@ Mohammad Nomaan Qureshi<sup>\*</sup><sup>1</sup>, Pushkal Katara<sup>\*</sup><su
 
 Code and Dataset will be released soon!
 
-<button onclick="window.location=https://bonjovi1.github.io/assets/pdf/RTVS.pdf">Download Paper</button>
-
-[Download Paper](https://bonjovi1.github.io/assets/pdf/RTVS.pdf)
+### [Download Paper](https://bonjovi1.github.io/assets/pdf/RTVS.pdf)
 
 <p align="center">
 <img src="video.gif" /> 
